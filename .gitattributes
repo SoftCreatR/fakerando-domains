@@ -1,0 +1,7 @@
+*            text=auto
+
+*.txt        text eol=lf
+*.tpl        text eol=lf
+*.sh         text eol=lf
+*.md         text eol=lf
+*.yml        text eol=lf

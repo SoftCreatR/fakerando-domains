@@ -1,0 +1,43 @@
+---
+name: Validate New Domains and process PR
+
+on:
+  pull_request:
+    paths:
+      - 'new.txt'
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2.3.4
+
+      - name: Checkout PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr checkout ${{ github.event.pull_request.number }}
+
+      - name: Main Process
+        run: bash .github/scripts/process-pr.sh && echo "Done!"
+
+      - name: Update PR
+        run: |-
+          git pull
+          git add .
+          git diff
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git commit -m "Updated PR" -a || echo "No changes to commit"
+          git push
+
+      - name: Comment PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr comment ${{ github.event.pull_request.number }} --body "This looks great, lets get it deployed. Thank you very much for your contribution!"
+
+      - name: Merge PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge --rebase

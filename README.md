@@ -1,15 +1,15 @@
 # fakerando-domains
 
-This repository contains a list of domains of so-called "shadow websites", created by Takeaway.com / Lieferando (DACH) / Eat.ch / Thuisbezorgd.nl. Their purpose is to "mimic" the original restaurant's website to steal their customers or at least, gain from their orders. This isn't right and when possible, you should avoid using them to order food. Maybe add these domains to your Adblock software, so you won't generate any traffic to these websites.
+This repository contains a list of domains of so-called "shadow websites", created by Takeaway.com / Lieferando (DACH) / Eat.ch / Thuisbezorgd.nl. Their purpose is to "mimic" the original restaurant's website to steal their customers or at least, gain from their orders. This isn't right and when possible, you should avoid using them to order food. Click [here](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/filter.txt&title=Fakerando%20Domains), to block these domains using your Adblocker.
 
-Unfortunately, this list might be incomplete, as it just covers ~ 59.000 out of more than 120.000 currently existing domains. If you know more of them, feel free to add them to the list or let me know, so I can extend it.
+Unfortunately, this list might be incomplete, as it just covers half of more than 120.000 currently existing domains. If you know more of them, feel free to extend this list. More information can be found [here](/CONTRIBUTING.md).
 
-For more information about Takeaways's shadow websites, check out this video by Walulis: https://www.youtube.com/watch?v=xB0OWg2l2jQ
+For more information about Takeaways's shadow websites, check out this video by Walulis (German): [Wie Lieferando dich mit Fake-Websiten täuscht | WALULIS DAILY](https://www.youtube.com/watch?v=xB0OWg2l2jQ)
 
 ----
 
-Dieses Repository enthält eine Liste von Domains sogenannter "Schatten-Websites", die von Takeaway.com / Lieferando (DACH) / Eat.ch / Thuisbezorgd.nl erstellt wurden. Ihr Zweck ist es, die ursprüngliche Website des Restaurants zu "imitieren", um deren Kunden zu stehlen oder zumindest von deren Bestellungen zu profitieren. Das ist nicht richtig, und wenn möglich, sollten Sie es vermeiden, sie zur Essensbestellung zu nutzen. Fügen Sie diese Domains ggf. zu Ihrer Adblock-Software hinzu, damit Sie keinen Traffic auf diesen Websites generieren.
+Dieses Repository enthält eine Liste von Domains sogenannter "Schatten-Websites", die von Takeaway.com / Lieferando (DACH) / Eat.ch / Thuisbezorgd.nl erstellt wurden. Ihr Zweck ist es, die ursprüngliche Website des Restaurants zu "imitieren", um deren Kunden zu stehlen oder zumindest von deren Bestellungen zu profitieren. Das ist nicht richtig, und wenn möglich, solltest du es vermeiden, sie zur Essensbestellung zu nutzen. Klicke [hier](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/filter.txt&title=Fakerando%20Domains), um die Domains mit Hilfe deines Adblockers zu sperren.
 
-Leider ist diese Liste vermutlich unvollständig, da sie nur ~ 59.000 von mehr als 120.000 derzeit existierenden Domains abdeckt. Wenn Sie mehr davon kennen, können Sie diese gerne der Liste hinzufügen oder mir Bescheid geben, damit ich sie erweitern kann.
+Leider ist diese Liste nicht vollständig, da sie nur etwa die Hälfte von mehr als 120.000 derzeit existierenden Domains abdeckt. Wenn du mehr davon kennst, kannst du diese Liste gerne erweitern. Wie das geht, erfährst du [hier](/CONTRIBUTING.md).
 
-Für weitere Informationen über Takeaways Schatten-Websites, schauen Sie sich dieses Video von Walulis an: https://www.youtube.com/watch?v=xB0OWg2l2jQ
+Für weitere Informationen über Takeaways Schatten-Websites, schau dir dieses Video von Walulis an: [Wie Lieferando dich mit Fake-Websiten täuscht | WALULIS DAILY](https://www.youtube.com/watch?v=xB0OWg2l2jQ)
