@@ -2,8 +2,8 @@
 name: Validate all listed domains
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  #schedule:
+  #  - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
