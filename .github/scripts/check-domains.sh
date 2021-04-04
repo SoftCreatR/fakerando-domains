@@ -44,7 +44,7 @@ do
 done < "$ALL"
 
 # Post-Process
-if [ "$DOMAIN_COUNTER" eq 0 ]; then
+if [ "$DOMAIN_COUNTER" -eq 0 ]; then
   echo -e "\n${CRED}Something went wrong. Aborting.${CEND}"
 
   exit 1;
