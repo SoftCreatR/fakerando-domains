@@ -55,7 +55,7 @@ do
 done < "$NEW"
 
 # Post-Process
-if [ "$COUNTER" eq 0 ]; then
+if [ "$COUNTER" -eq 0 ]; then
   echo -e "\n${CRED}No new domains added. Aborting.${CEND}"
 
   exit 1;
