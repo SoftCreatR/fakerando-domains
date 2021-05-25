@@ -1,6 +1,6 @@
 # fakerando-domains
 
-UPDATE 2021-05-25: Looks like most german fake websites have been removed for legal reasons. The domains still exists, but they're redirecting to the main website.
+__UPDATE 2021-05-25__: Looks like most german fake websites have been removed for legal reasons. The domains still exists, but they're redirecting to the main website.
 
 This repository contains a list of domains of so-called "shadow websites", created by Takeaway.com / Lieferando (DACH) / Eat.ch / Thuisbezorgd.nl. Their purpose is to "mimic" the original restaurant's website to steal their customers or at least, gain from their orders. This isn't right and when possible, you should avoid using them to order food. Click [here](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/filter.txt&title=Fakerando%20Domains), to block these domains using your Adblocker.
 
@@ -10,7 +10,7 @@ For more information about Takeaways's shadow websites, check out this video by 
 
 ----
 
-Update 25.05.2021: Scheinbar wurden die meisten deutschen Fake-Websites aus rechtlichen Gründen entfernt. Die Domains existieren zwar weiterhin, aber sie leiten nun auf die Haupt-Website um.
+__Update 25.05.2021__: Scheinbar wurden die meisten deutschen Fake-Websites aus rechtlichen Gründen entfernt. Die Domains existieren zwar weiterhin, aber sie leiten nun auf die Haupt-Website um.
 
 Dieses Repository enthält eine Liste von Domains sogenannter "Schatten-Websites", die von Takeaway.com / Lieferando (DACH) / Eat.ch / Thuisbezorgd.nl erstellt wurden. Ihr Zweck ist es, die ursprüngliche Website des Restaurants zu "imitieren", um deren Kunden zu stehlen oder zumindest von deren Bestellungen zu profitieren. Das ist nicht richtig, und wenn möglich, solltest du es vermeiden, sie zur Essensbestellung zu nutzen. Klicke [hier](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/filter.txt&title=Fakerando%20Domains), um die Domains mit Hilfe deines Adblockers zu sperren.
 
